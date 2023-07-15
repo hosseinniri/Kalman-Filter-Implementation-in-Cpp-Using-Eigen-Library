@@ -8,7 +8,7 @@ Explanation of the files:
 
 "KalmanFilter.cpp" - Implementation file for the Kalman filter class
 
-"driverCodeKalmanCpp.cpp" - Driver code that explains how to use the Kalman filter class
+"main.cpp" - Driver code that explains how to use the Kalman filter class
 
 "KalmanFilter.py"  - Python that implements the Kalman filter
 
