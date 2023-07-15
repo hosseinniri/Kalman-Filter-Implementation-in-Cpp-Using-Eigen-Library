@@ -1,11 +1,7 @@
 // Implementation file of the Kalman filter class
 
-#include <iostream>
-#include<tuple>
-#include<string>
-#include<fstream>
-#include<vector>
-#include<Eigen/Dense>
+
+
 #include "KalmanFilter.h"
 
 using namespace Eigen;

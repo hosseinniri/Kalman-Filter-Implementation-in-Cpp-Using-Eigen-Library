@@ -3,8 +3,14 @@
 #ifndef KALMANFILTER_H
 #define KALMANFILTER_H
 
+#include <iostream>
+#include<tuple>
 #include<string>
-#include<Eigen/Dense>
+#include<fstream>
+#include<vector>
+#include<string>
+#include<Eigen\Dense>
+
 using namespace Eigen;
 using namespace std;
 class KalmanFilter{
